@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
-public class ActivateOnHit : MonoBehaviour
+public class ActivateOnHitCilindro : MonoBehaviour
 {
     private Rigidbody rb;
 
