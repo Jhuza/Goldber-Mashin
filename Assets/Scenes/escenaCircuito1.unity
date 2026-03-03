@@ -204,13 +204,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1104954090}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -156.39, y: 282.96, z: -164.87}
+  m_LocalRotation: {x: 0.18445267, y: -0, z: -0, w: 0.98284143}
+  m_LocalPosition: {x: -448.6, y: 281.2, z: 701}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 21.258, y: 0, z: 0}
 --- !u!1 &1677324758
 GameObject:
   m_ObjectHideFlags: 0
@@ -308,7 +308,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1001 &1870960276
+--- !u!1001 &1951976758998870959
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -316,70 +316,70 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 315166138915780115, guid: 3230de77496c3c945beeb23e66d383bc,
+        type: 3}
+      propertyPath: m_Name
+      value: finalesFuncionalMaquina2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: -211.66415
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 1062.3862
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2326918295021319934, guid: e9e102dc3f5a8104f8102141c004a8d2,
+    - target: {fileID: 6228763092365276469, guid: 3230de77496c3c945beeb23e66d383bc,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7064126246828941526, guid: e9e102dc3f5a8104f8102141c004a8d2,
-        type: 3}
-      propertyPath: m_Name
-      value: finalesFuncionalMaquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: e9e102dc3f5a8104f8102141c004a8d2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 3230de77496c3c945beeb23e66d383bc, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1104954093}
   - {fileID: 1677324760}
-  - {fileID: 1870960276}
+  - {fileID: 1951976758998870959}
